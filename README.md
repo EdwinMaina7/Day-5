@@ -11,8 +11,11 @@ Adopt the right tone: Formal for technical reports, conversational for guides an
 Provide clear definitions: Use glossaries or tooltips for uncommon terms.
 
 3. Gauging Audience Knowledge to Avoid Overwhelming Them
+
 Conduct surveys or gather user feedback before writing.
+
 Analyze common support questions or previous user issues.
+
 Start with basic concepts and allow readers to opt into advanced sections.
 
 4. Techniques for Accessibility for Non-Technical Users
